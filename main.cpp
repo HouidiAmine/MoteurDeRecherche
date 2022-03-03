@@ -1,4 +1,3 @@
-//nous sommes le binome mohamed amine houidi et houssem jmal 1info1
 #include <vector>
 #include<set>
 #include<map>
@@ -351,7 +350,7 @@ for (i=bibli.biblio.begin();i!=bibli.biblio.end();i++)
 
     }
  }
-affich= invertMap(scor);//inversion du map vers un multimap en inversant la cle et la valeur  pour avoir la propriete du tri du multimap selon la clé;
+affich= invertMap(scor);//inversion du map vers un multimap en inversant la cle et la valeur  pour avoir la propriete du tri du multimap selon la clÃ©;
 if(::w==0)
 
 
